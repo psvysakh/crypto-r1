@@ -1,0 +1,12 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.9ffdf3ed70b3c41fa3d2d8d1f703c2fe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "v",
+  "license": "ISC"
+}
